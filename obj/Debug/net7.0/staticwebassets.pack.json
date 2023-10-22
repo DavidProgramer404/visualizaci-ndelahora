@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\CuentaRegresiva\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CuentaRegresiva.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CuentaRegresiva.props",
+      "PackagePath": "build\\CuentaRegresiva.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CuentaRegresiva.props",
+      "PackagePath": "buildMultiTargeting\\CuentaRegresiva.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CuentaRegresiva.props",
+      "PackagePath": "buildTransitive\\CuentaRegresiva.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

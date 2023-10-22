@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin-top: 0.2em;
+    font-size: 2.5em;
+    font-family: 'ADLaM Display';
+}
+
+.container {
+    margin-top: 5em;
+    margin-left: 10em;
+    margin-right: 10em;
+    display: flex;
+    flex-direction: column;
+}
+
+.blockContainer {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.blockTime :first-child {
+    font-weight: 900;
+}
+
+.blockTime :last-child::first-letter {
+    text-transform: capitalize;
+}
+
+.blockTime {
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+    border: 5px solid black;
+    border-radius: 12px;
+
+}
+
+.TimeRemaining {
+    width: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5em;
+}

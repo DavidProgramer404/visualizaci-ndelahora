@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "sWzlkRg5AKC/8rspTAdUtFeaRCccF6Bzzl+e7q6Voz8=",
+  "Source": "CuentaRegresiva",
+  "BasePath": "_content/CuentaRegresiva",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CuentaRegresiva\\wwwroot",
+      "Source": "CuentaRegresiva",
+      "ContentRoot": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\CuentaRegresiva\\wwwroot\\",
+      "BasePath": "_content/CuentaRegresiva",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\CuentaRegresiva\\wwwroot\\css\\style.css",
+      "SourceId": "CuentaRegresiva",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\CuentaRegresiva\\wwwroot\\",
+      "BasePath": "_content/CuentaRegresiva",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
